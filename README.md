@@ -54,44 +54,9 @@ console.log(`> Hello, World. I'm ${developer.name}.`);
 
 ---
 
-### `~/achievements`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alijon208&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
----
-
 ### `~/contribution-graph`
 
 <br/>
-
-> ⚙️ Snake animatsiyasini ko'rish uchun quyidagi GitHub Actions ni sozlang
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: alijon208
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alijon208/alijon208/output/github-contribution-grid-snake-dark.svg">
@@ -105,11 +70,7 @@ jobs:
 
 <br/>
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=alijon208&repo=alijon208&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_radius=8)](https://github.com/alijon208?tab=repositories)
-
-<br/>
-
-> 📁 View all → **[github.com/alijon208](https://github.com/alijon208?tab=repositories)**
+> 📁 Barcha proyektlar → **[github.com/alijon208](https://github.com/alijon208?tab=repositories)**
 
 ---
 
