@@ -36,7 +36,7 @@ console.log(`> Hello, World. I'm ${developer.name}.`);
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,git,github,vscode,figma,vercel,vite&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,sass,git,github,vscode,figma,vercel,vite&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
@@ -51,18 +51,6 @@ console.log(`> Hello, World. I'm ${developer.name}.`);
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=alijon208&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&border_radius=8" height="165"/>
-
----
-
-### `~/contribution-graph`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alijon208/alijon208/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alijon208/alijon208/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/alijon208/alijon208/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 ---
 
