@@ -4,15 +4,13 @@
 <!--                      HERO                         -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-```
-╔══════════════════════════════════════════╗
-║                                          ║
-║       { Muxammad Ali }                   ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=%7B+Muxammad+Ali+%7D" alt="{ Muxammad Ali }"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Building+beautiful+UIs+%F0%9F%8E%A8;Based+in+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=555555&center=true&vCenter=true&repeat=false&width=600&height=24&lines=─────────────────────────────────────" alt="divider"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&multiline=false&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Building+beautiful+UIs+%F0%9F%8E%A8;Based+in+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<br/>
 
 ---
 
@@ -107,29 +105,11 @@ console.log(`> Hello, World. I'm ${developer.name}.`);
 
 <br/>
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: alijon208
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alijon208/alijon208/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alijon208/alijon208/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/alijon208/alijon208/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
@@ -141,9 +121,11 @@ jobs:
 
 <br/>
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=alijon208&repo=alijon208&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_radius=8)](https://github.com/alijon208)
+<a href="https://github.com/alijon208?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alijon208&repo=alijon208&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_radius=8&description_lines_count=2" alt="Featured Project"/>
+</a>
 
-<br/>
+<br/><br/>
 
 > 📁 &nbsp;View all projects → **[github.com/alijon208](https://github.com/alijon208?tab=repositories)**
 
@@ -169,12 +151,11 @@ jobs:
 
 <br/>
 
-```
-> keep coding. keep building.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=333333&center=true&vCenter=true&repeat=false&width=500&height=20&lines=%3E+keep+coding.+keep+building." alt="> keep coding. keep building."/>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alijon208&color=000000&style=flat-square&label=profile+views)
 
 </div>
+
